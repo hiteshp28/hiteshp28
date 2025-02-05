@@ -34,18 +34,18 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
 </p>
 
-/*---
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamshinde6762&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamshinde6762&theme=tokyonight" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshp28&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshp28&theme=tokyonight" alt="GitHub Streak" width="45%"/>
 </div>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamshinde6762&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiteshp28&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="45%"/>
 </p>
 
----*/
+---
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
@@ -61,5 +61,3 @@
   <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
   <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
-
-[![@shubhamshinde6762's Holopin board](https://holopin.me/shubhamshinde6762)](https://holopin.io/@shubhamshinde6762)
