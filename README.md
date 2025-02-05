@@ -58,6 +58,6 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/shubhamshinde6762/shubhamshinde6762/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+  <img src="https://github.com/shubhamshinde6762/hiteshp28/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
+  <img src="https://github.com/shubhamshinde6762/hiteshp28/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
 </p>
