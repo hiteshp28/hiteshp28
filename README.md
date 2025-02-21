@@ -2,7 +2,10 @@
 <h3 align="center">🚀 Full Stack Developer | ML & AI Enthusiast | Competitive Programmer | Cloud Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hiteshp28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=hiteshp28&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/hiteshpawar2804"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://hitesh-pawar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=flat-square" alt="Portfolio" /></a>
   <a href="mailto:hiteshpawar2804@gmail.com"><img src="https://img.shields.io/badge/Email-%230E75B6.svg?style=flat-square" alt="Email" /></a>
@@ -14,12 +17,14 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/hitesh_pawar28?ext=contest" alt="LeetCode Stats" width="45%"/>
 </p>
+
 <ul align="center">
   <li>🔥 <strong>LeetCode 1751</strong></li>
   <li>🌟 <strong>Codeforces Pupil</strong></li>
   <li>⭐ <strong>CodeChef 3⭐</strong></li>
 </ul>
 
+---
 
 <h3 align="center">🚀 Skills & Tools</h3>
 <p align="center">
@@ -32,6 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
@@ -58,6 +65,5 @@
 
 <h3 align="center">🐍 Snake Animation</h3>
 <p align="center">
-  <img src="https://github.com/hiteshp28/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/hiteshp28/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
+  <img src="https://github.com/hiteshp28/hiteshp28/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
