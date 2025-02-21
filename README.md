@@ -53,10 +53,3 @@
   <a href="https://codeforces.com/profile/hiteshpawar2804" target="blank"><img src="https://img.shields.io/badge/Codeforces-blue?logo=codeforces&logoColor=white&style=for-the-badge" alt="Codeforces" /></a>
 </p>
 
----
-
-<h3 align="center">🐍 Snake Animation</h3>
-<p align="center">
-  <img src="https://github.com/hiteshp28/hiteshp28/blob/output/github-snake.svg#gh-light-mode-only" alt="Snake Animation Light Mode" />
-  <img src="https://github.com/hiteshp28/hiteshp28/blob/output/github-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark Mode" />
-</p>
