@@ -15,7 +15,7 @@
   <img src="https://leetcard.jacoblin.cool/hitesh_pawar28?ext=contest" alt="LeetCode Stats" width="45%"/>
 </p>
 <ul align="center">
-  <li>🔥 <strong>LeetCode 1751</strong></li>
+  <li>🔥 <strong>LeetCode 1747</strong></li>
   <li>🌟 <strong>Codeforces Pupil</strong></li>
   <li>⭐ <strong>CodeChef 3⭐</strong></li>
 </ul>
