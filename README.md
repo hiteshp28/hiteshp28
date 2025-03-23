@@ -11,9 +11,6 @@
 ---
 
 <h2 align="center">🏆 Competitive Programming</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/hitesh_pawar28?ext=contest" alt="LeetCode Stats" width="45%"/>
-</p>
 <ul align="center">
   <li>🔥 <strong>LeetCode 1747</strong></li>
   <li>🌟 <strong>Codeforces Pupil</strong></li>
