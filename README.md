@@ -7,9 +7,18 @@
   <a href="https://hitesh-pawar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%230E75B6.svg?style=flat-square" alt="Portfolio" /></a>
   <a href="mailto:hiteshpawar2804@gmail.com"><img src="https://img.shields.io/badge/Email-%230E75B6.svg?style=flat-square" alt="Email" /></a>
 </p>
-
 ---
 
+## 🚀 Live Projects
+
+### 🍽️ **Restaurant Management System: Delishify**  
+- **Main Frontend:** [Live Link](https://delishify-1.onrender.com/)  
+- **Admin Panel:** [Live Link](https://delishify-admin.onrender.com/)  
+
+### ✈️ **AI Trip Planner**  
+- **Live Demo:** [Live Link](https://travel-plan-ai.vercel.app/)  
+
+---
 <h2 align="center">🏆 Competitive Programming</h2>
 <ul align="center">
   <li>🔥 <strong>LeetCode 1747</strong></li>
