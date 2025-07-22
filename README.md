@@ -14,8 +14,8 @@
 ---
 <h2 align="center">🏆 Competitive Programming</h2>
 <ul align="center">
-  <li>🔥 <strong>LeetCode 1747</strong></li>
-  <li>🌟 <strong>Codeforces Pupil</strong></li>
+  <li>🔥 <strong>LeetCode 1818</strong></li>
+  <li>🌟 <strong>Codeforces Pupil(1306)</strong></li>
   <li>⭐ <strong>CodeChef 3⭐</strong></li>
 </ul>
 
