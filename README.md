@@ -9,14 +9,7 @@
 </p>
 
 
-## 🚀 Live Projects
 
-### 🍽️ **Restaurant Management System: Delishify**  
-- **Main Frontend:** [Live Link](https://delishify-1.onrender.com/)  
-- **Admin Panel:** [Live Link](https://delishify-admin.onrender.com/)  
-
-### ✈️ **AI Trip Planner**  
-- **Live Demo:** [Live Link](https://travel-plan-ai.vercel.app/)  
 
 ---
 <h2 align="center">🏆 Competitive Programming</h2>
